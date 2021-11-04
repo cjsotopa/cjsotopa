@@ -1,4 +1,4 @@
-![fondo cut git](https://user-images.githubusercontent.com/77866708/138515217-2c9f4d7a-008c-4a3f-ae11-c6a898d67875.jpg)
+![fondo2](https://user-images.githubusercontent.com/77866708/140423249-629ca62f-c03f-4713-a4bf-75aa7bf6a17b.png)
 
 Hi, I'm Christian Jaime Soto Paredes, I’m interested in artificial intelligence, machine learning, deep learning, quantum computing,
 data science, big data, and business intelligence, I’m looking to collaborate on multidisciplinary machine learning teams. 
