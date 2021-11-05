@@ -4,6 +4,7 @@ Hi, I'm Christian Jaime Soto Paredes, I’m interested in artificial intelligenc
 data science, big data, and business intelligence, I’m looking to collaborate on multidisciplinary machine learning teams. 
 - <a href="https://cjsotopa.github.io">www.christiansoto.com.pe</a>
 - www.linkedin.com/in/christian-soto-pa
+- https://thequantumtime.blogspot.com/
 - csotopa@unsa.edu.pe
 
 <!---
