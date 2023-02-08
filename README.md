@@ -5,7 +5,7 @@ data science, big data, and business intelligence, I’m looking to collaborate 
 - Personal Page: <a href="https://cjsotopa.github.io">www.christiansoto.com.pe</a>
 - Linkedin: <a href="https://www.linkedin.com/in/christian-soto-pa">www.linkedin.com/christian-soto</a> 
 - Credly: https://www.credly.com/users/christian-soto.514113dc/badges
-- Blog: <a href="https://thequantumtime.blogspot.com/">thequantumtime.blogspot.com/</a> 
+<!- --Blog: <a href="https://thequantumtime.blogspot.com/">thequantumtime.blogspot.com/</a> -->
 - Concytec: <a href="https://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=79056">dina.concytec.gob.pe/id_investigador=79056</a> 
 - Email: csotopa@unsa.edu.pe
 
